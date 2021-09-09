@@ -115,6 +115,8 @@ Convert 3D models into G-Code.
 - [KISSlicer](http://kisslicer.com)
 - [MatterControl](http://mattercontrol.com)
 - [Slic3r](http://slic3r.org)
+- [PrusaSlicer](https://www.prusa3d.de/prusaslicer/)
+- [ideaMaker](https://www.raise3d.com/ideamaker/)
 - [Skeinforge](http://fabmetheus.crsndoo.com/wiki/index.php/Skeinforge) - Tool chain of Python scripts.
 
 
