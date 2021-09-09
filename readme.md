@@ -148,7 +148,7 @@ Independent:
 - [Bld3r](http://bld3r.com)
 - [CGtrader](http://cgtrader.com)
 - [Cuboyo](http://cuboyo.com)
-- [Cults](http://en.cults3d.com)
+- [Cults3D](http://en.cults3d.com)
 - [FABFabbers](http://fabfabbers.com)
 - [FabMe](http://fabme.it)
 - [GrabCAD](http://grabcad.com)
